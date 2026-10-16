@@ -37,5 +37,3 @@ Explorar la relación entre moda, color y diseño web, aplicando conceptos de di
 ## Estado del proyecto
 Trabajo práctico / Proyecto académico
 
-## Autora
-Greta Pardo Certano
